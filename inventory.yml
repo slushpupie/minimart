@@ -1,0 +1,12 @@
+# sources:
+#   - "https://supermarket.getchef.com"
+cookbooks:
+  windows:
+    versions:
+      - "> 1.38.4"
+      - "> 1.38.3"
+  lvm:
+    versions:
+      - "> 1.4.1"
+      - "> 1.4.0"
+
